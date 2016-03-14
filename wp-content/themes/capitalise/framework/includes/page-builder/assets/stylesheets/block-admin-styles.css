@@ -1,0 +1,46 @@
+/* Custom Styles for Aqua Page Builder Admin */
+#blocks-archive .block-featured_portfolio .block-title { font-size: 11px; }
+
+/* A small hack to prevent transparent background on block settings */
+#page-builder .block {
+	height: auto!important;
+}
+#page-builder .block-settings {
+	background-color: white!important;
+}
+/* Style some page builder blocks */
+#blocks-archive .block-ptf_section_start_block .block-handle,
+#blocks-archive .block-ptf_section_end_block .block-handle,
+#page-builder .block-ptf_section_start_block .block-handle,
+#page-builder .block-ptf_section_end_block .block-handle {
+	border-color: #444!important;
+	background-color: #444!important;
+	color: #fff;
+}
+#page-builder .block-ptf_section_start_block .block-handle .in-block-title,
+#page-builder .block-ptf_section_end_block .block-handle .in-block-title {
+	color: #bbb!important; 
+}
+#page-builder .block-ptf_section_start_block .block-edit,
+#page-builder .block-ptf_section_end_block .block-edit {
+	color: #fff!important;
+}
+#blocks-archive .block-ptf_section_start_block .block-handle:hover,
+#blocks-archive .block-ptf_section_end_block .block-handle:hover,
+#page-builder .block-ptf_section_start_block .block-handle:hover ,
+#page-builder .block-ptf_section_end_block .block-handle:hover {
+	border-color: #0074a2!important;
+	background-color: #0074a2!important;
+	color: #fff;
+}
+
+#page-builder .block-title i,
+#blocks-archive .block-title i {
+	padding: 0 11px 0 0;
+}
+
+#page-builder .form-wrap p, 
+p.description, p.help, 
+span.description {
+	font-style: normal!important;
+}

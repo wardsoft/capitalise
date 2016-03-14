@@ -1,0 +1,106 @@
+/*
+Theme Name: Capitalise
+Theme URI: http://www.capitalise.com/
+Author: Chris Ward | Wardsoft Ltd
+Author URI: http://wardsoft.co.uk/
+Description: A design/development for Capitalise
+Version: 1.2
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: Capitalise
+Text Domain: Capitalise
+*/
+h1, h2, h3, h4, h5, h6 {
+    text-transform: none;
+}
+h2{
+	font-size:28px;
+}
+nav.main-navigation ul a:hover{
+	color:#e6772e !important;
+}
+nav.main-navigation ul li {
+	position: relative;
+    display: inline-block;
+    padding: 10px 2px;
+    margin: 5px 5px 5px 5px;
+    background-color: #e6772e;
+    /* color: white; */
+    border-radius: 30px;
+    text-align: center;
+    vertical-align: middle;
+    width: auto;
+    max-height: 80px;
+}
+nav.main-navigation ul a {
+    font-size: 12px;
+    letter-spacing: -0.5px;
+    color: white;
+    padding: 10px;
+}
+nav.main-navigation ul a:hover {
+    color:black;
+}
+.site-header .main-header .logo {
+    padding: 0px;
+}
+.site-header .top-header {
+    background: #515151;
+    color: #a8a8a8;
+    border-bottom: 2px solid #e6772e;
+}
+nav.main-navigation ul {
+    margin: 20px;
+}
+footer {
+    background: #515151;
+}
+nav.main-navigation ul a:hover, nav.main-navigation ul .current-menu-item a {
+	color: #515151;
+}
+section {
+    padding: 20px 0;
+}
+.tp-bgimg{
+	border-radius:20px;
+}
+.advice-bubble{
+background-color: #515151;
+padding:5px 10px 10px 20px;
+color:white;
+border-radius:30px;
+max-width:350px;
+max-height:500px;
+}
+.advice-bubble h2{
+color:white;
+font-size:22px
+}
+.advice-bubble li{
+color:#f68121;
+margin-right:20px;
+vertical-align:middle;
+font-size:35px;
+width:40px;
+text-align:center;
+}
+.advice-bubble b{
+font-size:17px;
+}
+.advice-bubble div{
+margin-bottom:20px;
+}
+.advice-bubble input[type=text]{
+margin-left:60px;
+height:35px;
+width:160px;
+float:left;
+}
+.advice-bubble button{
+    background: none;
+    border: none;
+    float:left;
+}
+.header-sticky.sticky nav.main-navigation ul li {
+    padding: 5px;
+}

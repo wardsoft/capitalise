@@ -1,0 +1,1508 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Artcore\n"
+"POT-Creation-Date: 2015-11-23 17:34-0300\n"
+"PO-Revision-Date: 2015-11-23 17:34-0300\n"
+"Last-Translator: Farg CG <marcc3d@gmail.com>\n"
+"Language-Team: Esmeth Team <marcc3d@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html__;esc_html_e;esc_html_x;esc_attr__;"
+"esc_attr_e;esc_attr_x\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: framework/includes/kirki\n"
+"X-Poedit-SearchPathExcluded-1: framework/includes/page-builder/classes\n"
+"X-Poedit-SearchPathExcluded-2: framework/includes/page-builder/functions\n"
+"X-Poedit-SearchPathExcluded-3: framework/includes/page-builder/view\n"
+"X-Poedit-SearchPathExcluded-4: framework/includes/meta-box\n"
+
+#: 404.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: 404.php:16
+msgid "404 Error"
+msgstr ""
+
+#: 404.php:17
+msgid ""
+"The page you are looking for was moved, removed, renamed or might never "
+"existed"
+msgstr ""
+
+#: 404.php:18
+msgid "Return Home"
+msgstr ""
+
+#: archive.php:45
+#: framework/includes/page-builder/blocks/ptf-blog-posts-block.php:97
+#: framework/includes/partials/content.php:56
+#: framework/includes/partials/content.php:93 search.php:37 search.php:75
+#: search.php:111
+msgid "Continue Reading"
+msgstr ""
+
+#: comments.php:40
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:59
+msgid "Submit a comment"
+msgstr ""
+
+#: comments.php:60
+#, php-format
+msgid "Submit a comment to %s"
+msgstr ""
+
+#: comments.php:61
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:62
+msgid "Submit Comment"
+msgstr ""
+
+#: comments.php:66
+msgid "Comment"
+msgstr ""
+
+#: comments.php:71
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:77
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:83
+msgid "Your email address will not be published. Required fields are marked *"
+msgstr ""
+
+#: comments.php:91
+msgid "Name"
+msgstr ""
+
+#: comments.php:98
+msgid "Email"
+msgstr ""
+
+#: comments.php:106
+msgid "Website"
+msgstr ""
+
+#: footer.php:39
+msgid "(c) 2015 - Artcore Creative Architecture WordPress Theme"
+msgstr ""
+
+#: framework/includes/back-compat.php:26 framework/includes/back-compat.php:31
+#: framework/includes/back-compat.php:43
+#, php-format
+msgid ""
+"PlugFramework requires at least WordPress version 4.1. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:399
+#: framework/includes/class-tgm-plugin-activation.php:3029
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:400
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:828
+#: framework/includes/class-tgm-plugin-activation.php:3438
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:935
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:935
+#: framework/includes/class-tgm-plugin-activation.php:938
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:938
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:1116
+#: framework/includes/class-tgm-plugin-activation.php:2828
+msgid "and"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:1881
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2235
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2371
+msgid "unknown"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2422
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2438
+msgid "Type"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2491
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2495
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2500
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:3362
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:3364
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:3365
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:3370
+#: framework/includes/class-tgm-plugin-activation.php:3376
+msgid "Show Details"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:3370
+#: framework/includes/class-tgm-plugin-activation.php:3376
+msgid "Hide Details"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:3372
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:3375
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:3376
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:3378
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:14
+msgid "Page Options"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:19
+msgid "Show Page heading?"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:20
+msgid "Check this option to show title and subtitle for the page."
+msgstr ""
+
+#: framework/includes/meta-boxes.php:26
+msgid "Page Subtitle"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:27
+msgid ""
+"Please input the subtitle for the page. <strong>Leave it blank to hide pages "
+"subtitles.</strong>"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:34
+msgid "Slider Shortcode"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:35
+msgid ""
+"Paste here the shortcode for your slider. <strong>Leave it blank to hide the "
+"slider.</strong><br><em>NOTE: Use this setting only for pages using the "
+"<strong>Blank Page</strong> template.</em> "
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-alert-block.php:17
+msgid "Alerts"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-alert-block.php:47
+#: framework/includes/page-builder/blocks/ptf-widgets-block.php:41
+msgid "Title (optional)"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-alert-block.php:53
+msgid "Alert Text (required)"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-alert-block.php:59
+msgid "Alert Type"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-alert-block.php:65
+msgid "Additional inline css styling (optional)"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-blog-posts-block.php:16
+msgid "Blog Posts"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-blog-posts-block.php:36
+#: framework/includes/page-builder/blocks/ptf-portfolio-block.php:37
+#: framework/includes/page-builder/blocks/ptf-service-block.php:47
+#: framework/includes/page-builder/blocks/ptf-testimonials-block.php:47
+msgid "One Column"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-blog-posts-block.php:37
+#: framework/includes/page-builder/blocks/ptf-portfolio-block.php:38
+#: framework/includes/page-builder/blocks/ptf-service-block.php:48
+#: framework/includes/page-builder/blocks/ptf-testimonials-block.php:48
+msgid "Two Columns"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-blog-posts-block.php:38
+#: framework/includes/page-builder/blocks/ptf-portfolio-block.php:39
+#: framework/includes/page-builder/blocks/ptf-service-block.php:49
+#: framework/includes/page-builder/blocks/ptf-testimonials-block.php:49
+msgid "Three Columns"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-blog-posts-block.php:39
+#: framework/includes/page-builder/blocks/ptf-portfolio-block.php:40
+#: framework/includes/page-builder/blocks/ptf-service-block.php:50
+#: framework/includes/page-builder/blocks/ptf-testimonials-block.php:50
+msgid "Four Columns"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-blog-posts-block.php:46
+msgid "Number of blog posts. Enter '-1' to display all items."
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-blog-posts-block.php:53
+#: framework/includes/page-builder/blocks/ptf-portfolio-block.php:67
+msgid "Portfolio Columns"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-clear-block.php:16
+msgid "Clear"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-clear-block.php:47
+msgid ""
+"Use this block to clear the floats between two or more separate blocks "
+"vertically."
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-clear-block.php:51
+msgid "Pick a horizontal line"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-clear-block.php:57
+msgid "Height (optional)"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-clear-block.php:63
+msgid "Pick a line color"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-cta-block.php:15
+msgid "Call to Action"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-cta-block.php:37
+msgid "Same Window"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-cta-block.php:38
+msgid "New Window"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-cta-block.php:46
+msgid "Call to Action Text"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-cta-block.php:53
+msgid "Button Text"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-cta-block.php:60
+msgid "Button URL"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-cta-block.php:67
+msgid "Button URL Target"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-cta-block.php:74
+msgid "Show Button?"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-heading-block.php:15
+msgid "Heading"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-heading-block.php:44
+msgid "Heading Text"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-heading-block.php:50
+msgid "Heading Color"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-heading-block.php:56
+msgid "Subheading Text"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-heading-block.php:62
+msgid "Subheading Color"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-heading-block.php:68
+msgid "Text Align"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-heading-block.php:74
+msgid "Padding top"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-heading-block.php:79
+#: framework/includes/page-builder/blocks/ptf-section-start.php:70
+msgid "Padding Bottom"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-map-block.php:16
+msgid "Google Map"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-map-block.php:41
+msgid "Map Title"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-map-block.php:42
+msgid "Enter the map title. Leave it empty to hide this info."
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-map-block.php:49
+msgid "Map Latitude"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-map-block.php:50
+msgid "Enter the map latitude. Example: 59.32522."
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-map-block.php:57
+msgid "Map Longitude"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-map-block.php:58
+msgid "Enter the map longitude. Example: 18.07002."
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-map-block.php:65
+msgid "Map Zoom"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-map-block.php:72
+msgid "Map Height"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-map-block.php:79
+msgid "Map Custom Marker Icon"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-map-block.php:80
+msgid "This will be used in place of default google map marker icon."
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-portfolio-block.php:16
+msgid "Portfolio"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-portfolio-block.php:43
+msgid "All"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-portfolio-block.php:60
+msgid "Number of portfolio items. Enter '-1' to display all items."
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-portfolio-block.php:74
+msgid "Portfolio Category"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-section-end.php:15
+msgid "Section End"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-section-end.php:33
+#: framework/includes/page-builder/blocks/ptf-section-start.php:44
+msgid "Standard"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-section-end.php:34
+#: framework/includes/page-builder/blocks/ptf-section-start.php:45
+msgid "Full Width"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-section-end.php:39
+msgid ""
+"Use this block with Section Start. In case of using parallax background "
+"settings, remember to enable this setting in this block too."
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-section-end.php:44
+#: framework/includes/page-builder/blocks/ptf-section-start.php:58
+msgid "Layout Mode"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-section-end.php:51
+#: framework/includes/page-builder/blocks/ptf-section-start.php:101
+msgid "Enable Parallax Background"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-section-start.php:15
+msgid "Section Start"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-section-start.php:24
+msgid "New Page Section"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-section-start.php:52
+msgid "Section Title"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-section-start.php:59
+#: framework/includes/page-builder/blocks/ptf-section-start.php:102
+msgid ""
+"NOTE: This setting must be setup in both Section Start and Section End "
+"blocks."
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-section-start.php:65
+msgid "Padding Top"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-section-start.php:76
+msgid "Background Image"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-section-start.php:83
+msgid "Background Color"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-section-start.php:89
+msgid "Background Position"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-section-start.php:95
+msgid "Background Repeat ?"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-service-block.php:16
+msgid "Service Box"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-service-block.php:33
+#: framework/includes/page-builder/blocks/ptf-service-block.php:181
+msgid "Add New Service"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-service-block.php:37
+#: framework/includes/page-builder/blocks/ptf-service-block.php:185
+msgid "Read More"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-service-block.php:56
+#: framework/includes/page-builder/blocks/ptf-testimonials-block.php:60
+msgid "Column Size"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-service-block.php:73
+#: framework/includes/page-builder/blocks/ptf-skillbar-block.php:56
+#: framework/includes/page-builder/blocks/ptf-testimonials-block.php:85
+msgid "Add New"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-service-block.php:89
+#: framework/includes/page-builder/blocks/ptf-skillbar-block.php:72
+#: framework/includes/page-builder/blocks/ptf-testimonials-block.php:100
+msgid "Open / Close"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-service-block.php:96
+#: framework/includes/page-builder/blocks/ptf-skillbar-block.php:79
+#: framework/includes/page-builder/blocks/ptf-testimonials-block.php:107
+#: framework/includes/widgets/ptf-flickr-widget.php:30
+#: framework/includes/widgets/ptf-recent-posts-widget.php:30
+#: framework/includes/widgets/ptf-recent-projects-widget.php:30
+msgid "Title"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-service-block.php:102
+msgid "Icon"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-service-block.php:103
+msgid "Enter the desired icon class. Example: fa fa-gear"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-service-block.php:110
+msgid "Read More URL"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-service-block.php:111
+msgid "Enter the url for the read more text. Example: http://mysite.com"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-service-block.php:118
+msgid "Read More Text Label"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-service-block.php:119
+msgid "Enter the label for the read more text."
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-service-block.php:126
+#: framework/includes/page-builder/blocks/ptf-testimonials-block.php:128
+#: framework/includes/page-builder/blocks/ptf-text-block.php:49
+#: framework/includes/page-builder/blocks/ptf-text-image-block.php:62
+msgid "Content"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-service-block.php:131
+#: framework/includes/page-builder/blocks/ptf-skillbar-block.php:91
+#: framework/includes/page-builder/blocks/ptf-testimonials-block.php:133
+msgid "Delete"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-skillbar-block.php:15
+msgid "Skill Bar"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-skillbar-block.php:30
+#: framework/includes/page-builder/blocks/ptf-skillbar-block.php:132
+msgid "Add New Skill"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-skillbar-block.php:85
+msgid "Skill Percentage"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-skillbar-block.php:86
+msgid "Enter your skill percentage"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-team-block.php:15
+msgid "Team Member"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-team-block.php:38
+msgid "Member Photo"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-team-block.php:39
+msgid "Minimum size required of 640x640 pixels."
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-team-block.php:46
+msgid "Member Name"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-team-block.php:53
+msgid "Member Role"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-team-block.php:54
+msgid "Example: CEO Founder."
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-team-block.php:61
+msgid "Member Description"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-team-block.php:68
+msgid "Twitter URL"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-team-block.php:69
+msgid "Example: http://twitter.com/your_user_name."
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-team-block.php:76
+msgid "Facebook URL"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-team-block.php:77
+msgid "Example: http://facebook.com/your_user_name."
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-team-block.php:84
+msgid "Instagram URL"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-team-block.php:85
+msgid "Example: http://instagram.com/your_user_name."
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-testimonials-block.php:16
+msgid "Testimonials"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-testimonials-block.php:32
+#: framework/includes/page-builder/blocks/ptf-testimonials-block.php:195
+msgid "Add New Testimonial"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-testimonials-block.php:54
+#: framework/includes/theme-customizer.php:395
+msgid "Classic"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-testimonials-block.php:55
+msgid "Carousel"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-testimonials-block.php:61
+msgid "NOTE: This option is only applicable for classic layout mode."
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-testimonials-block.php:68
+#: framework/includes/theme-customizer.php:32
+msgid "Layout"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-testimonials-block.php:113
+msgid "Author"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-testimonials-block.php:114
+msgid "Enter the testimonial author."
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-testimonials-block.php:120
+msgid "Author position"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-testimonials-block.php:121
+msgid "Enter the testimonial author position (Example: CEO)."
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-text-block.php:15
+msgid "Text Box"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-text-block.php:34
+#: framework/includes/page-builder/blocks/ptf-text-image-block.php:41
+msgid "Title (Optional)"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-text-block.php:41
+msgid "Additional Class (Optional)"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-text-block.php:42
+msgid "Example: title-heading"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-text-block.php:54
+#: framework/includes/page-builder/blocks/ptf-text-image-block.php:67
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-text-image-block.php:15
+msgid "Text & Image Box"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-text-image-block.php:48
+msgid "Image"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-text-image-block.php:55
+msgid "Image Align"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-widgets-block.php:15
+msgid "Widgets"
+msgstr ""
+
+#: framework/includes/page-builder/blocks/ptf-widgets-block.php:47
+msgid "Choose Widget Area"
+msgstr ""
+
+#: framework/includes/partials/content-none.php:15
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: framework/includes/partials/content-none.php:19
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: framework/includes/partials/content-none.php:24
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: framework/includes/theme-customizer.php:20
+msgid "General"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:21
+msgid "General options for favicon, layout and color accent choices."
+msgstr ""
+
+#: framework/includes/theme-customizer.php:26
+msgid "Typography"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:27
+msgid "Options for body, headings and extras typograhy."
+msgstr ""
+
+#: framework/includes/theme-customizer.php:33
+msgid "Options for header, footer and misc layout settings."
+msgstr ""
+
+#: framework/includes/theme-customizer.php:41
+msgid "Custom Logo"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:50
+msgid "Custom Favicon & Icons"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:58
+msgid "Colors"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:65
+msgid "Header"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:72
+msgid "Footer"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:79
+msgid "Body"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:86
+msgid "Headings"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:93
+msgid "Extras"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:94
+msgid "Tpography for Extra Elements."
+msgstr ""
+
+#: framework/includes/theme-customizer.php:100
+msgid "Blog Settings"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:106
+msgid "Project Settings"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:112
+msgid "Social Networks"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:118
+msgid "Custom Code Integration"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:132
+msgid "Click the button below to upload a custom logo."
+msgstr ""
+
+#: framework/includes/theme-customizer.php:133
+msgid "Upload a logo with prefered sizes of 394x74."
+msgstr ""
+
+#: framework/includes/theme-customizer.php:146
+msgid "Favicon"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:147
+msgid "Upload a custom favicon."
+msgstr ""
+
+#: framework/includes/theme-customizer.php:148
+msgid ""
+"Upload a file( png, ico, jpg, gif or bmp ) from your computer (maximum "
+"size:1MB )."
+msgstr ""
+
+#: framework/includes/theme-customizer.php:158
+msgid "Apple Touch Icon"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:159
+#: framework/includes/theme-customizer.php:171
+msgid "Upload your touch icon here."
+msgstr ""
+
+#: framework/includes/theme-customizer.php:170
+msgid "Apple Touch Icon 144x144"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:184
+msgid "Accent Color"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:185
+msgid "Choose your prefered accent color."
+msgstr ""
+
+#: framework/includes/theme-customizer.php:196
+msgid "Accent Hover Color"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:197
+msgid "Choose your prefered accent hover color."
+msgstr ""
+
+#: framework/includes/theme-customizer.php:218
+msgid "Header Search Icon"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:219
+msgid "Check this option to show/hide the header search icon."
+msgstr ""
+
+#: framework/includes/theme-customizer.php:230
+msgid "Header Top Default Text"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:231
+msgid "Enter your text below to show in the header top bar."
+msgstr ""
+
+#: framework/includes/theme-customizer.php:234
+msgid "Welcome to Artcore."
+msgstr ""
+
+#: framework/includes/theme-customizer.php:242
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:243
+msgid "Enter your footer copyright text below."
+msgstr ""
+
+#: framework/includes/theme-customizer.php:246
+msgid "2015 Artcore Creative Architecture WordPress Theme"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:264
+msgid "Font Family"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:279
+msgid "Google Font subsets"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:280
+msgid "The subsets used from Google's API."
+msgstr ""
+
+#: framework/includes/theme-customizer.php:295
+#: framework/includes/theme-customizer.php:359
+msgid "Font Weight"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:314
+msgid "Font Size"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:343
+msgid "H1 - h6 Typography"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:344
+msgid "Choose a font family for headings below."
+msgstr ""
+
+#: framework/includes/theme-customizer.php:388
+msgid "Blog Layout"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:389
+msgid "Choose your prefered blog layout below."
+msgstr ""
+
+#: framework/includes/theme-customizer.php:396
+msgid "Masonry"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:404
+msgid "Blog Page Heading"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:405
+msgid "Check this option to show/hide the blog page title and subtitle."
+msgstr ""
+
+#: framework/includes/theme-customizer.php:416
+msgid "Blog Page Title"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:428
+msgid "Blog Page Subtitle"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:440
+msgid "Blog Excerpt"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:441
+msgid "Define the character count for blog excerpts."
+msgstr ""
+
+#: framework/includes/theme-customizer.php:462
+msgid "Projects Per Page"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:463
+msgid "Enter the number of projects per page."
+msgstr ""
+
+#: framework/includes/theme-customizer.php:474
+msgid "Previous Project Button Label"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:475
+msgid "Enter the button label for previous project."
+msgstr ""
+
+#: framework/includes/theme-customizer.php:486
+msgid "Next Project Button Label"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:487
+msgid "Enter the button label for next project."
+msgstr ""
+
+#: framework/includes/theme-customizer.php:508
+msgid "Show RSS Icon"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:509
+msgid "Check this option to show/hide the rss icon."
+msgstr ""
+
+#: framework/includes/theme-customizer.php:520 single-project.php:95
+msgid "Facebook"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:521
+msgid "Enter your facebook url below."
+msgstr ""
+
+#: framework/includes/theme-customizer.php:532 single-project.php:96
+msgid "Twitter"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:533
+msgid "Enter your twitter url below."
+msgstr ""
+
+#: framework/includes/theme-customizer.php:544
+msgid "LinkedIn"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:545
+msgid "Enter your linkedin url below."
+msgstr ""
+
+#: framework/includes/theme-customizer.php:556
+msgid "Flickr"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:557
+msgid "Enter your flickr url below."
+msgstr ""
+
+#: framework/includes/theme-customizer.php:568
+msgid "Youtube"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:569
+msgid "Enter your youtube url below."
+msgstr ""
+
+#: framework/includes/theme-customizer.php:580
+msgid "Instagram"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:581
+msgid "Enter your instagram url below."
+msgstr ""
+
+#: framework/includes/theme-customizer.php:592
+msgid "Google+"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:593
+msgid "Enter your google+ url below."
+msgstr ""
+
+#: framework/includes/theme-customizer.php:604
+msgid "Tumblr"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:605
+msgid "Enter your tumblr url below."
+msgstr ""
+
+#: framework/includes/theme-customizer.php:616
+msgid "Custom Social Icon"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:617
+msgid "Enter your custom social icon url below."
+msgstr ""
+
+#: framework/includes/theme-customizer.php:628
+msgid "Enter your custom social icon class (e.g fa fa-facebook)."
+msgstr ""
+
+#: framework/includes/theme-customizer.php:650
+msgid "Custom CSS"
+msgstr ""
+
+#: framework/includes/theme-customizer.php:651
+msgid "Enter your custom css code below."
+msgstr ""
+
+#: framework/includes/theme-functions.php:35
+msgid "404"
+msgstr ""
+
+#: framework/includes/theme-functions.php:36
+msgid "Page Not Found"
+msgstr ""
+
+#: framework/includes/theme-functions.php:41
+msgid "Search Results "
+msgstr ""
+
+#: framework/includes/theme-functions.php:42
+msgid "Search results for: "
+msgstr ""
+
+#: framework/includes/theme-functions.php:48
+msgid "All the posts by "
+msgstr ""
+
+#: framework/includes/theme-functions.php:62
+#: framework/includes/theme-functions.php:67
+#: framework/includes/theme-functions.php:72
+msgid "All the posts of "
+msgstr ""
+
+#: framework/includes/theme-functions.php:174
+msgid "Newer Posts"
+msgstr ""
+
+#: framework/includes/theme-functions.php:177
+msgid "Older Posts"
+msgstr ""
+
+#: framework/includes/theme-init.php:28
+msgid "Header Main Menu"
+msgstr ""
+
+#: framework/includes/theme-init.php:100
+msgid "Sidebar"
+msgstr ""
+
+#: framework/includes/theme-init.php:102
+msgid "Located at the left side of pages."
+msgstr ""
+
+#: framework/includes/theme-init.php:112
+msgid "Footer Area 1"
+msgstr ""
+
+#: framework/includes/theme-init.php:114 framework/includes/theme-init.php:126
+#: framework/includes/theme-init.php:138 framework/includes/theme-init.php:150
+msgid "Located at the bottom of pages."
+msgstr ""
+
+#: framework/includes/theme-init.php:124
+msgid "Footer Area 2"
+msgstr ""
+
+#: framework/includes/theme-init.php:136
+msgid "Footer Area 3"
+msgstr ""
+
+#: framework/includes/theme-init.php:148
+msgid "Footer Area 4"
+msgstr ""
+
+#: framework/includes/widgets/ptf-flickr-widget.php:13
+msgid "Displays a flickr feed."
+msgstr ""
+
+#: framework/includes/widgets/ptf-flickr-widget.php:18
+msgid "Artcore Flickr Feed"
+msgstr ""
+
+#: framework/includes/widgets/ptf-flickr-widget.php:26
+msgid "Flickr Feed"
+msgstr ""
+
+#: framework/includes/widgets/ptf-flickr-widget.php:35
+msgid "Flickr id"
+msgstr ""
+
+#: framework/includes/widgets/ptf-flickr-widget.php:40
+#: framework/includes/widgets/ptf-recent-posts-widget.php:35
+#: framework/includes/widgets/ptf-recent-projects-widget.php:35
+msgid "Numbers of items to show:"
+msgstr ""
+
+#: framework/includes/widgets/ptf-recent-posts-widget.php:13
+msgid "Displays recent posts."
+msgstr ""
+
+#: framework/includes/widgets/ptf-recent-posts-widget.php:18
+msgid "Artcore Recent Posts"
+msgstr ""
+
+#: framework/includes/widgets/ptf-recent-posts-widget.php:26
+msgid "Recent Posts"
+msgstr ""
+
+#: framework/includes/widgets/ptf-recent-posts-widget.php:41
+msgid "Show post date?"
+msgstr ""
+
+#: framework/includes/widgets/ptf-recent-posts-widget.php:46
+msgid "Show post thumbnail?"
+msgstr ""
+
+#: framework/includes/widgets/ptf-recent-projects-widget.php:13
+msgid "Displays recent projects."
+msgstr ""
+
+#: framework/includes/widgets/ptf-recent-projects-widget.php:18
+msgid "Artcore Recent Projects"
+msgstr ""
+
+#: framework/includes/widgets/ptf-recent-projects-widget.php:26
+msgid "Recent Projects"
+msgstr ""
+
+#: header.php:43
+msgid "Welcome to Artcore"
+msgstr ""
+
+#: header.php:109 searchform.php:12
+msgid "Search here"
+msgstr ""
+
+#: page.php:29 template-page-fullwidth.php:29
+msgid "Pages: "
+msgstr ""
+
+#: single-project.php:39
+msgid "Client:"
+msgstr ""
+
+#: single-project.php:52
+msgid "Date:"
+msgstr ""
+
+#: single-project.php:65
+msgid "Location:"
+msgstr ""
+
+#: single-project.php:79
+msgid "Category:"
+msgstr ""
+
+#: single-project.php:92
+msgid "Share on:"
+msgstr ""
+
+#: single-project.php:95
+msgid "Share on Facebook"
+msgstr ""
+
+#: single-project.php:96
+msgid "Share on Twitter"
+msgstr ""
+
+#: single-project.php:97
+msgid "Share on Google+"
+msgstr ""
+
+#: single-project.php:97
+msgid "Google Plus"
+msgstr ""
+
+#: single.php:24
+msgid "Page"
+msgstr ""
+
+#: template-projects-3col.php:33 template-projects-4col.php:33
+#: template-projects-full.php:32
+msgid "Show All"
+msgstr ""
